@@ -1,0 +1,4 @@
+Model,Accuracy,F1
+"XGBoost (baseline, default config)",0.553,0.2158
+"XGBoost (best tuned: depth=6, lr=0.1)",0.537,0.2964
+"LSTM (64 units, class-weighted)",0.5485,0.2089

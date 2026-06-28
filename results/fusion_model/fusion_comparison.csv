@@ -1,0 +1,5 @@
+Model,Accuracy,F1
+XGBoost — Technical only (baseline),0.553,0.2158
+LSTM    — Technical only (baseline),0.5485,0.2089
+XGBoost — Fusion (technical + sentiment),0.558,0.2079
+LSTM    — Fusion (technical + sentiment),0.5108,0.483

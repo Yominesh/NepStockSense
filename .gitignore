@@ -1,0 +1,16 @@
+# Large intermediate news CSVs (regenerate by running sentiment pipeline)
+sentiment/raw_news.csv
+sentiment/news_mapped.csv
+sentiment/news_scored.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

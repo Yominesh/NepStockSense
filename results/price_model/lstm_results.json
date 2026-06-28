@@ -1,0 +1,18 @@
+{
+  "model": "LSTM (64 units, dropout 0.2, class-weighted)",
+  "window_size": 20,
+  "train_windows": 6262,
+  "test_windows": 2000,
+  "accuracy": 0.5485,
+  "f1": 0.2085889570552147,
+  "confusion_matrix": [
+    [
+      978,
+      139
+    ],
+    [
+      764,
+      119
+    ]
+  ]
+}
